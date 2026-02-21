@@ -1,2 +1,2 @@
-# Simple-Linear-Model-Numpy-only-
-A small university project just for learning...
+# Simple-Linear-Model-Numpy-only
+Simple linear regression from scratch
