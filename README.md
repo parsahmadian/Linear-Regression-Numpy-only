@@ -38,6 +38,7 @@ Optimization:
 ## 🛠 Tech Stack
 - Python
 - NumPy
+- Pandas
 - Matplotlib
 
 ## 🚀 Why this project?
