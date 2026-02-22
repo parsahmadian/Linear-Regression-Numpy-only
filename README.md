@@ -11,9 +11,8 @@ To deeply understand:
 - The impact of learning rate and feature scale on training stability
 
 ## 🧠 Model
-The model predicts output using:
-
-ŷ = X · w + b
+| The model predicts output using:
+| ŷ = X · w + b
 
 Where:
 - X: input features
