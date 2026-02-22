@@ -32,12 +32,13 @@ Optimization:
 - Shows instability when learning rate is too large (overflow / NaN)
 
 ## ⚠️ Notes
-- No feature standardization was applied intentionally to observe its effect
+- In previous versions, No feature standardization was applied intentionally to observe its effect
 - Learning rate was carefully tuned to avoid divergence
 
 ## 🛠 Tech Stack
 - Python
 - NumPy
+- Pandas
 - Matplotlib
 
 ## 🚀 Why this project?
