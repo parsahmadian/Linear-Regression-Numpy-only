@@ -15,9 +15,6 @@ The model predicts output using:
 ```math
 ŷ = X · w + b
 ```
-$y^ = X \cdot w + b$
-
-<br>
 
 Where:
 - X: input features
