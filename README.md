@@ -16,6 +16,9 @@ The model predicts output using:
 ŷ = X · w + b
 ```
 $y\_hat = X \cdot w + b$
+
+<br>
+
 Where:
 - X: input features
 - w: weights
