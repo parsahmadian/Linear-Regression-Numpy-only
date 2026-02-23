@@ -12,6 +12,7 @@ To deeply understand:
 
 ## 🧠 Model
 The model predicts output using:
+
 ŷ = X · w + b
 
 Where:
