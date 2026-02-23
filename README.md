@@ -12,9 +12,7 @@ To deeply understand:
 
 ## 🧠 Model
 The model predicts output using:
-```math
 ŷ = X · w + b
-```
 
 Where:
 - X: input features
